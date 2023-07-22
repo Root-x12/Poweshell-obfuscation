@@ -1,4 +1,4 @@
-# Poweshell-obfuscation
+# Poweshell-obfuscation Paylods
 Powershell Reverse Shell scripts encrypted codes
 
 Title: PowerShell Script Collection for Educational and Authorized Use Only
